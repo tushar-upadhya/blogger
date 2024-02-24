@@ -83,7 +83,7 @@ function CommnunitiesCard() {
       <img className="h-10 w-10" src={imgURL} alt="cummunity-img" />
       <div className="flex flex-col gap-1">
         {/* c name */}
-        <p className="text-sm text-gray-600">utkarshseth</p>
+        <p className="text-sm text-gray-600">Tushar Upadhyay</p>
         <p className="text-xs text-gray-400"> 4,345,555 members </p>
         {/* members */}
       </div>
